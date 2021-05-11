@@ -4,4 +4,6 @@ A python script that creates directories for all the days in specified years whe
 ---
 
 ## Installation
-You can either clone this repo or download a zip file and run autosubs.py
+To use this script you need to have installed python version 3.x which you can download [here](https://www.python.org/downloads/)
+
+You can either clone this repo or download a zip file and run yeardir.py
